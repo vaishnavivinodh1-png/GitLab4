@@ -2,3 +2,4 @@
 This is a new student file
 git clone to local machine
 cloned repository was verified 
+git repository was succesful
